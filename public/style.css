@@ -94,5 +94,8 @@ html{
     .city{
         font-size: small;
     }
+    .pic{
+        height: 30vh;
+    }
     
 }
