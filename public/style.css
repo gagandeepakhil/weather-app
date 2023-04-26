@@ -83,7 +83,7 @@ html{
         width: auto;
     }
     .city{
-        font-size: small;
+        font-size: medium;
     }
     
 }
@@ -92,7 +92,7 @@ html{
         width: 80%;
     }
     .city{
-        font-size: small;
+        font-size: medium;
     }
     .pic{
         height: 30vh;
